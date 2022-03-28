@@ -1,0 +1,86 @@
+[
+    {
+        "id":1,
+        "name":"JavaScript",
+        "img":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/2048px-Unofficial_JavaScript_logo_2.svg.png",
+        "price":1500,
+        "description":"JavaScript is the world's most popular programming language. JavaScript is the programming language of the Web"
+     },
+    {
+        "id":2,
+        "name":"Java",
+        "img":"https://codersera.com/blog/wp-content/uploads/2019/06/java_logo_640.jpg",
+        "price":2000,
+        "description":"Java is a popular programming language. Java is used to develop mobile apps, web apps, desktop apps, games and much more"
+     },
+    {
+        "id":3,
+        "name":"C#",
+        "img":"https://pluralsight.imgix.net/paths/path-icons/csharp-e7b8fcd4ce.png",
+        "price":1600,
+        "description":"C# (C-Sharp) is a programming language developed by Microsoft that runs on the .NET Framework."
+     },
+    {
+        "id":4,
+        "name":"C",
+        "img":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png",
+        "price":1700,
+        "description":"C is a general-purpose, procedural computer programming language supporting structured programming"
+     },
+    {
+        "id":5,
+        "name":"C++",
+        "img":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png",
+        "price":1500,
+        "description":"C++ is a popular programming language. C++ is used to create computer programs."
+     },
+    {
+        "id":6,
+        "name":"Python",
+        "img":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/640px-Python-logo-notext.svg.png",
+        "price":1600,
+        "description":"Python is a high-level, general-purpose programming language. Its design philosophy emphasizes code readability with the use of significant indentation."
+     },
+    {
+        "id":7,
+        "name":"Node.js",
+        "img":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1200px-Node.js_logo.svg.png",
+        "price":2000,
+        "description":"Node.js is an open source server environment; Node.js is free; Node.js runs on various platforms (Windows, Linux, Unix, Mac OS X, etc.)"
+     },
+    {
+        "id":8,
+        "name":"Django",
+        "img":"https://i.ytimg.com/vi/04L0BbAcCpQ/maxresdefault.jpg",
+        "price":2100,
+        "description":"Django is a high-level Python web framework that encourages rapid development and clean, pragmatic design. Built by experienced developers"
+     },
+    {
+        "id":9,
+        "name":"Flask",
+        "img":"https://static.javatpoint.com/tutorial/flask/images/flask-tutorial.png",
+        "price":1800,
+        "description":"The rest of the docs describe each component of Flask in detail, with a full ... Python Version "
+     },
+    {
+        "id":10,
+        "name":"React.js",
+        "img":"https://res.cloudinary.com/practicaldev/image/fetch/s--3zWuwYa3--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/pdib9r9rk5j1m7oala1p.png",
+        "price":1900,
+        "description":"React · Declarative. React makes it painless to create interactive UIs. · Component-Based. Build encapsulated components that manage their own state"
+     },
+    {
+        "id":11,
+        "name":"Angular.js",
+        "img":"https://acquven.com/blog/02/images/angular.jpg",
+        "price":1700,
+        "description":"AngularJS is a toolset for building the framework most suited to your application development. It is fully extensible and works well with other libraries"
+     },
+    {
+        "id":12,
+        "name":"React-Native",
+        "img":"https://www.simplilearn.com/ice9/free_resources_article_thumb/React_Native_Tutorial.jpg",
+        "price":2000,
+        "description":"React Native lets you create truly native apps and doesn't compromise your users' experiences. It provides a core set of platform agnostic native components"
+     }
+]

@@ -1,0 +1,25 @@
+.main{
+    margin-top: 50px;
+    margin-bottom: 50px;
+    padding: 20px;
+    display: grid;
+    grid-template-columns: 4fr 1fr;
+}
+
+.product{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    gap: 30px;
+}
+
+.right{
+    background: rgb(202, 250, 250);
+    border-radius: 10px;
+    padding-top: 10px;
+}
+
+@media screen and (max-width:600px){
+    .product{
+        grid-template-columns: repeat(2,1fr);
+    }
+}
