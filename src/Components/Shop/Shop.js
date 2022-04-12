@@ -13,7 +13,6 @@ const Shop = () => {
         .then(data=>setData(data))}
     ,[]);
     const handelAddToCart=(data)=>{
-        console.log(data)
         const newCart=[...cart,data];
         setCart(newCart)
     }
